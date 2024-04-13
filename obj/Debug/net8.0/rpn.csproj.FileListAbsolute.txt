@@ -1,0 +1,14 @@
+/home/ccond/source/rpn.csharp/bin/Debug/net8.0/rpn
+/home/ccond/source/rpn.csharp/bin/Debug/net8.0/rpn.deps.json
+/home/ccond/source/rpn.csharp/bin/Debug/net8.0/rpn.runtimeconfig.json
+/home/ccond/source/rpn.csharp/bin/Debug/net8.0/rpn.dll
+/home/ccond/source/rpn.csharp/bin/Debug/net8.0/rpn.pdb
+/home/ccond/source/rpn.csharp/obj/Debug/net8.0/rpn.GeneratedMSBuildEditorConfig.editorconfig
+/home/ccond/source/rpn.csharp/obj/Debug/net8.0/rpn.AssemblyInfoInputs.cache
+/home/ccond/source/rpn.csharp/obj/Debug/net8.0/rpn.AssemblyInfo.cs
+/home/ccond/source/rpn.csharp/obj/Debug/net8.0/rpn.csproj.CoreCompileInputs.cache
+/home/ccond/source/rpn.csharp/obj/Debug/net8.0/rpn.dll
+/home/ccond/source/rpn.csharp/obj/Debug/net8.0/refint/rpn.dll
+/home/ccond/source/rpn.csharp/obj/Debug/net8.0/rpn.pdb
+/home/ccond/source/rpn.csharp/obj/Debug/net8.0/rpn.genruntimeconfig.cache
+/home/ccond/source/rpn.csharp/obj/Debug/net8.0/ref/rpn.dll
